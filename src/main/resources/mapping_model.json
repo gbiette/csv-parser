@@ -1,0 +1,16 @@
+{
+  "model": {
+    "properties": {
+      "varInt": {
+        "type": "long"
+      },
+      "varString": {
+        "type": "string",
+        "index": "not_analyzed"
+      },
+      "varDouble": {
+        "type": "double"
+      }
+    }
+  }
+}

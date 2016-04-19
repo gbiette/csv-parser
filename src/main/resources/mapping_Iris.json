@@ -1,0 +1,22 @@
+{
+  "Iris": {
+    "properties": {
+      "sepal_length": {
+        "type": "double"
+      },
+      "sepal_width": {
+        "type": "double"
+      },
+      "petal_length": {
+        "type": "double"
+      },
+      "petal_width": {
+        "type": "double"
+      },
+      "species": {
+        "type": "string",
+        "index": "not_analyzed"
+      }
+    }
+  }
+}
